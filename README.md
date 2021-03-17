@@ -1,4 +1,4 @@
-### Deprecation Warning⚠️
+### Deprecation Warning ⚠️
 
 The project is deprecated in favor of [systems conferences by deadline](http://www.cs.technion.ac.il/~dan/index_sysvenues_deadline.html).
 
